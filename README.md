@@ -62,12 +62,3 @@ npx prisma studio -p 5556
 
 > 任何侵权行为将面临法律追责。如需商用，请联系武汉长乐未央网络科技有限公司获取授权。
 
-
-.env
----
-
-# your environment variables
-NODE_ENV=development
-PORT=3000
-DATABASE_URL="file:./dev.db"
-SECRET=ed66ff428ce58141aa98eb2d5255db704ed5ad16ee730310fba1f784cf049fce
